@@ -4,7 +4,7 @@ This admin dashboard is built on **React and Tailwind CSS**, providing developer
 
 With this admin dashboard, you get access to all the necessary UI components, elements, and pages required to build a feature-rich and complete dashboard or admin panel. Whether you're building a dashboard for a complex web application or a simple website, this template helps you get up and running quickly.
 
-![Admin Dashboard Preview](./banner.png)
+<!-- ![Admin Dashboard Preview](./banner.png) -->
 
 ## Overview
 
